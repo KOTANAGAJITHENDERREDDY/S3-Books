@@ -29,7 +29,7 @@ Continuous Feedback
 
 Flexible Adaptation
 # Core Azure Services
-   **Azure Blob Storage**:Azure Blob Storage is a cloud-based storage service provided by Microsoft Azure. It allows you to store vast amounts of unstructured data, including documents, images, videos, logs, and backups. Blob Storage offers scalability, enabling the storage of large volumes of data while providing options for redundancy across regions or data centers, ensuring data durability and high availability. It includes features for access control, allowing you to manage permissions using shared access signatures (SAS) and Azure AD integration.
+   **Azure Blob Storage**:Azure Blob Storage is a cloud-based storage service provided by Microsoft Azure. It allows you to store vast amounts of unstructured data, including documents, images, videos, logs, and backups. Blob Storage offers scalability, enabling the storage of large volumes of data while providing options for redundancy across regions or data centers, ensuring data durability and high availability.It includes features for access control, allowing you to manage permissions using shared access signatures (SAS) and Azure AD integration.
    
    **Azure Storage Account**: Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
    
